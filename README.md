@@ -4,10 +4,15 @@ This repository contains the implementation and analysis of various classificati
 
 ## Techniques Implemented
 **K-Nearest Neighbors (KNN)**: A simple, instance-based learning algorithm that classifies a new instance based on the majority label of its k nearest neighbors.
+
 **Random Forest**: An ensemble learning method that constructs multiple decision trees during training and outputs the class that is the mode of the classes of the individual trees.
+
 **Logistic Regression:** A statistical model that uses a logistic function to model a binary dependent variable.
+
 **Gaussian Naive Bayes**: A probabilistic classifier based on applying Bayes' theorem with the assumption of independence between every pair of features.
+
 **Linear Support Vector Classification (Linear SVC)**: A linear version of the Support Vector Machine algorithm used for binary classification tasks.
+
 **XGBoost**: An implementation of gradient-boosted decision trees designed for speed and performance.
 
 ## Data Preprocessing
